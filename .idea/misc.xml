@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/debug/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/but.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/check.xml" value="0.505" />
+        <entry key="app/src/main/res/drawable/ic_checkmarksquare_111077.xml" value="0.506" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_square_rounded_svgrepo_com.xml" value="0.506" />
+        <entry key="app/src/main/res/drawable/ics.xml" value="0.506" />
+        <entry key="app/src/main/res/drawable/sg.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/shape.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/shape2.xml" value="0.186" />
+        <entry key="app/src/main/res/drawable/uv.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4194100042753313" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.40396791895314477" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.3222748815165877" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main5.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main6.xml" value="0.36051899907321594" />
+        <entry key="app/src/main/res/layout/fragment_1.xml" value="0.40396791895314477" />
+        <entry key="app/src/main/res/layout/fragment_2.xml" value="0.40396791895314477" />
+        <entry key="app/src/main/res/layout/fragment_3.xml" value="0.40396791895314477" />
+        <entry key="app/src/main/res/layout/sample.xml" value="0.42154766994442067" />
+        <entry key="app/src/main/res/layout/sample1.xml" value="0.42154766994442067" />
+        <entry key="app/src/main/res/menu/menu1.xml" value="0.42154766994442067" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
